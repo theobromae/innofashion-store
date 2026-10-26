@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://innofashion.store/sitemap.xml
